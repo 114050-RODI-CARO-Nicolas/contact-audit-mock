@@ -1,0 +1,60 @@
+{
+    "audit_history": [
+      {
+        "revision_id": 1,
+        "entity": "ContactEntity",
+        "entity_id": 1,
+        "revision_date": "2024-01-01T10:00:00",
+        "changed_by": 1001,
+        "changes": {
+          "contact_value": "firstemail@example.com",
+          "contact_type": "EMAIL"
+        }
+      },
+      {
+        "revision_id": 2,
+        "entity": "ContactEntity",
+        "entity_id": 1,
+        "revision_date": "2024-02-01T11:00:00",
+        "changed_by": 1002,
+        "changes": {
+          "contact_value": "updatedemail@example.com",
+          "contact_type": "EMAIL"
+        }
+      },
+      {
+        "revision_id": 3,
+        "entity": "ContactEntity",
+        "entity_id": 2,
+        "revision_date": "2024-02-10T09:30:00",
+        "changed_by": 1003,
+        "changes": {
+          "contact_value": "+1234567890",
+          "contact_type": "PHONE"
+        }
+      },
+      {
+        "revision_id": 4,
+        "entity": "ContactEntity",
+        "entity_id": 3,
+        "revision_date": "2024-03-01T14:00:00",
+        "changed_by": 1004,
+        "changes": {
+          "contact_value": "https://www.instagram.com/mockuser",
+          "contact_type": "SOCIAL_MEDIA_LINK"
+        }
+      },
+      {
+        "revision_id": 5,
+        "entity": "ContactEntity",
+        "entity_id": 2,
+        "revision_date": "2024-03-10T12:15:00",
+        "changed_by": 1005,
+        "changes": {
+          "contact_value": "+9876543210",
+          "contact_type": "PHONE"
+        }
+      }
+    ]
+  }
+  
