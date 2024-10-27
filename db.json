@@ -1,6 +1,7 @@
 {
   "audit_history": [
     {
+      "audit_id": 1,
       "contact_id": 1,
       "value": "javier.gomez@techstartups.co",
       "contact_type": "EMAIL",
@@ -9,6 +10,7 @@
       "revision_date": "2024-10-23 22:34:05"
     },
     {
+      "audit_id": 2,
       "contact_id": 2,
       "value": "+34912345678",
       "contact_type": "PHONE",
@@ -17,6 +19,7 @@
       "revision_date": "2024-10-23 22:34:05"
     },
     {
+      "audit_id": 3,
       "contact_id": 3,
       "value": "https://www.linkedin.com/in/javiergomez-tech",
       "contact_type": "SOCIAL_MEDIA_LINK",
@@ -25,6 +28,7 @@
       "revision_date": "2024-10-23 22:34:05"
     },
     {
+      "audit_id": 4,
       "contact_id": 4,
       "value": "+525533445566",
       "contact_type": "PHONE",
@@ -33,6 +37,7 @@
       "revision_date": "2024-10-23 22:34:05"
     },
     {
+      "audit_id": 5,
       "contact_id": 5,
       "value": "https://www.instagram.com/javi.gomez.life",
       "contact_type": "SOCIAL_MEDIA_LINK",
@@ -41,7 +46,8 @@
       "revision_date": "2024-10-23 22:34:05"
     },
     {
-      "contact_id": 6,
+      "audit_id": 6,
+      "contact_id": 5,
       "value": "https://www.instagram.com/javi.gomez.life",
       "contact_type": "SOCIAL_MEDIA_LINK",
       "revision_id": 2,
