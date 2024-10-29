@@ -112,7 +112,7 @@
     }
   ],
 
-  "contacts_users": [
+  "contacts-users": [
     {
       "contact_id": 1,
       "value": "javier.gomez@techstartups.co",
