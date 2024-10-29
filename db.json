@@ -1,4 +1,80 @@
 {
+
+  "users" : [
+    {
+      "user_id": 101,
+      "username": "javiergomez",
+      "email": "javier.gomez@example.com",
+      "phone": "+34911223344",
+      "associated_contacts": [1, 2, 10, 15]
+    },
+    {
+      "user_id": 102,
+      "username": "marialopez",
+      "email": "maria.lopez@example.com",
+      "phone": "+34912345678",
+      "associated_contacts": [3, 11, 12]
+    },
+    {
+      "user_id": 103,
+      "username": "pedrosanchez",
+      "email": "pedro.sanchez@example.com",
+      "phone": "+34987654321",
+      "associated_contacts": [4, 6, 13]
+    },
+    {
+      "user_id": 104,
+      "username": "lauragarcia",
+      "email": "laura.garcia@example.com",
+      "phone": "+34923456789",
+      "associated_contacts": [5, 7, 8, 14]
+    },
+    {
+      "user_id": 105,
+      "username": "carlosmartin",
+      "email": "carlos.martin@example.com",
+      "phone": "+34909876543",
+      "associated_contacts": []
+    },
+    {
+      "user_id": 106,
+      "username": "andreslopez",
+      "email": "andres.lopez@example.com",
+      "phone": "+34966554433",
+      "associated_contacts": [9, 16, 17, 18]
+    },
+    {
+      "user_id": 107,
+      "username": "sofiarodriguez",
+      "email": "sofia.rodriguez@example.com",
+      "phone": "+34955667788",
+      "associated_contacts": [19, 20, 21]
+    },
+    {
+      "user_id": 108,
+      "username": "davidfernandez",
+      "email": "david.fernandez@example.com",
+      "phone": "+34944556677",
+      "associated_contacts": [22, 23]
+    },
+    {
+      "user_id": 109,
+      "username": "angelamorales",
+      "email": "angela.morales@example.com",
+      "phone": "+34922334455",
+      "associated_contacts": [24, 25, 26, 27]
+    },
+    {
+      "user_id": 110,
+      "username": "ricardoramos",
+      "email": "ricardo.ramos@example.com",
+      "phone": "+34933445566",
+      "associated_contacts": []
+    }
+
+  ],
+
+  
   "audit_history": [
     {
       "audit_id": 1,
